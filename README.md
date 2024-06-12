@@ -5,6 +5,7 @@
 В вашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru.
 
 Файл с исходными данными вы можете скачать [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
+Файл с курсами валют можно скачать по [ссылке](https://lms-cdn.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPRMGU+2023_FEB+type@asset+block/ExchangeRates.zip)
 
 Проблематика: часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме.
 
